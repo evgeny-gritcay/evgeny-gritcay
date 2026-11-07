@@ -12,7 +12,7 @@ Docker и Git. Параллельно изучаю Python и Django.
 
 ## Проекты
 - [ItemStore](https://github.com/evgeny-gritcay/ItemStore) — REST API для учёта товаров: CRUD, EF Core, валидация, 
-  Docker, юнит-тесты. [Swagger и скриншоты — в README] (https://github.com/evgeny-gritcay/ItemStore#скриншоты).
+  Docker, юнит-тесты. [Swagger и скриншоты — в README](https://github.com/evgeny-gritcay/ItemStore#скриншоты).
 - [Блогикум](https://github.com/evgeny-gritcay/blogicum) — Личный Django‑блог: CRUD постов и комментариев, пагинация, профили, авторизация, деплой на Amvera. Оптимизация запросов: prefetch_related, annotate.
   [Деплой на Amvera](https://blogicum-evgenyg.mia0.amvera.tech/)
 
